@@ -7,4 +7,6 @@ the outer layer for better prediction,feature extraction,fine tuning.<br>
 ### <b>Model Architecture and summary:</b>
 vgg19-->2-1-2-1-4-1-4-1-4-1-FC<br>
 FC=fully connected dense layer
+![image](https://user-images.githubusercontent.com/68815179/198999435-a6ce3c44-17eb-47dc-a9f8-cd2fac01d8b3.png)
+
 
