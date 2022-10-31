@@ -7,6 +7,7 @@ the outer layer for better prediction,feature extraction,fine tuning.<br>
 ### <b>Model Architecture and summary:</b>
 vgg19-->2-1-2-1-4-1-4-1-4-1-FC<br>
 FC=fully connected dense layer<br>
+
 ![image](https://user-images.githubusercontent.com/68815179/198999435-a6ce3c44-17eb-47dc-a9f8-cd2fac01d8b3.png)
 
 - Then i applied image augmenatation using ImageDatagenarator to avoid over-fitting.
@@ -19,6 +20,7 @@ The Architecture and parameter used in this vgg19 model are capable of producing
 After that i have applied model using flask app which is shown below.
 
 ![image](https://user-images.githubusercontent.com/68815179/199000488-06b6fbde-5712-4d2b-8c64-82d139e1e7e7.png)
+
 ![image](https://user-images.githubusercontent.com/68815179/199000553-9902e1c1-64aa-4f1c-808c-5d9423eb1700.png)
 
 
